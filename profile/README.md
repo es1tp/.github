@@ -1,6 +1,6 @@
 
 <div align="center">
-  <p>Welcome to ES1TP</p>
+  <p>ES1TP - Ham Radio Club</p>
   <p>Scan to visit our application</p>
   <img src="./qr-code.png" alt="Scan to visit our app" width="150" />
   <p>
